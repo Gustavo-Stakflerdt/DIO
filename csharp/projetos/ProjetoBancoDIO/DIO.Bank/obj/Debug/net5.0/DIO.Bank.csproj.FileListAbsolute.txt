@@ -1,0 +1,16 @@
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Windows 10\ProjetoBancoDIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
