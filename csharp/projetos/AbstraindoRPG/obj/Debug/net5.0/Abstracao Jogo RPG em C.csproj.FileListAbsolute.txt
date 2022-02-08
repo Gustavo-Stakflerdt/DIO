@@ -1,0 +1,32 @@
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.exe
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.deps.json
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.runtimeconfig.json
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.runtimeconfig.dev.json
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.dll
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\ref\Abstracao Jogo RPG em C.dll
+D:\Projetos\Abstracao Jogo RPG em C\bin\Debug\net5.0\Abstracao Jogo RPG em C.pdb
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.csproj.AssemblyReference.cache
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.AssemblyInfoInputs.cache
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.AssemblyInfo.cs
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.csproj.CoreCompileInputs.cache
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.dll
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\ref\Abstracao Jogo RPG em C.dll
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.pdb
+D:\Projetos\Abstracao Jogo RPG em C\obj\Debug\net5.0\Abstracao Jogo RPG em C.genruntimeconfig.cache
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.exe
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.deps.json
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.runtimeconfig.json
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.runtimeconfig.dev.json
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.dll
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\ref\Abstracao Jogo RPG em C.dll
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\bin\Debug\net5.0\Abstracao Jogo RPG em C.pdb
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.csproj.AssemblyReference.cache
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.AssemblyInfoInputs.cache
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.AssemblyInfo.cs
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.dll
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\ref\Abstracao Jogo RPG em C.dll
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.pdb
+C:\Users\Maki\Downloads\Orientacao-a-objetos-C-RPG\obj\Debug\net5.0\Abstracao Jogo RPG em C.genruntimeconfig.cache
