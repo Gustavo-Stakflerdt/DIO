@@ -28,9 +28,3 @@
     <img align="center" alt="Gustavo-HTML5Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Gustavo-CSS3Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <div>
-  
-## 📜 Artigos escritos por mim:
-
-[5 dicas de como organizar os estudos](https://web.dio.me/articles/5-dicas-de-como-organizar-os-estudos?back=%2Farticles&page=1&order=oldest)
-
-[Variáveis e Tipos Primitivos em Java - Tudo o que você precisa saber](https://web.dio.me/articles/variaveis-e-tipos-primitivos-em-java-tudo-o-que-voce-precisa-saber?back=%2Fhome&page=1&order=oldest)
